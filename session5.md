@@ -1,3 +1,7 @@
+---
+marp: true
+---
+
 # **Session 5: Using VEX Sensors and Motors in PROS**
 
 ---

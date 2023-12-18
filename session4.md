@@ -1,3 +1,7 @@
+---
+marp: true
+---
+
 # **Session 4: Functions, Organization, and Sensors in VEX**
 
 ---

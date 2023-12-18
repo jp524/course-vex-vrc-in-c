@@ -1,3 +1,7 @@
+---
+marp: true
+---
+
 # **Session 3: Functions and Problem Solving with Programming**
 
 ---

@@ -1,3 +1,7 @@
+---
+marp: true
+---
+
 # **Session 2: PROS and C Programming Basics**
 
 ---
