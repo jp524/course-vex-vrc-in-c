@@ -1,3 +1,5 @@
+# Course VEX VRC in C
+
 # Generate PDF or HTML Slides from Markdown
 
 This project contains Markdown files that can be easily converted into a slide deck in PDF or HTML format using the [Marp](https://marp.app/) extension for VS Code.
